@@ -1,0 +1,28 @@
+name: splitr
+favicon: null
+layout_spectrum: 0.7235546759329736
+typography_spectrum: 0.5026992957573384
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.774738973705098
+  lightness: 0.8636245843954384
+  saturation: 0.08842270821332932
+  rhythmicContrast: 0.7462111823260784
+purpose: []
