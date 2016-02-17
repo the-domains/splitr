@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[splitr]]></title>
         <description><![CDATA[splitr]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/splitr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 08:15:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 08:19:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/splitr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>That's not a knife.</p>]]></description>
+            <link>https://thegrid.ai/splitr/16ccca55-80d8-4770-bc50-677b1d7d42f9/index.html</link>
+            <guid isPermaLink="false">16ccca55-80d8-4770-bc50-677b1d7d42f9</guid>
+            <pubDate>Wed, 17 Feb 2016 08:19:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Here I am, ready to test Grid.</p>]]></description>
-            <link>undefined2766b8de-344f-4755-9155-136d126a8c44/index.html</link>
+            <link>https://thegrid.ai/splitr/2766b8de-344f-4755-9155-136d126a8c44/index.html</link>
             <guid isPermaLink="false">2766b8de-344f-4755-9155-136d126a8c44</guid>
             <pubDate>Wed, 17 Feb 2016 08:15:15 GMT</pubDate>
         </item>
