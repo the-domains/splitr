@@ -4,21 +4,21 @@
         <description><![CDATA[splitr]]></description>
         <link>https://thegrid.ai/splitr/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 02:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 02:47:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/splitr/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>Testing About</p></article>]]></description>
+            <link>https://thegrid.ai/splitr/8d383aa7-2a67-4205-9b9d-4761acd944e4/index.html</link>
+            <guid isPermaLink="false">8d383aa7-2a67-4205-9b9d-4761acd944e4</guid>
+            <pubDate>Wed, 24 Feb 2016 02:46:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/de9a7f7b-0c60-4d1c-91f5-bdadf90a8e23.jpg">]]></description>
             <link>https://thegrid.ai/splitr/0b8dd7a8-cc94-4ecc-9648-1fe1436fca18/index.html</link>
             <guid isPermaLink="false">0b8dd7a8-cc94-4ecc-9648-1fe1436fca18</guid>
             <pubDate>Wed, 24 Feb 2016 02:31:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Big ol post</p>]]></description>
-            <link>https://thegrid.ai/splitr/8d383aa7-2a67-4205-9b9d-4761acd944e4/index.html</link>
-            <guid isPermaLink="false">8d383aa7-2a67-4205-9b9d-4761acd944e4</guid>
-            <pubDate>Wed, 24 Feb 2016 02:39:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
